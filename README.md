@@ -1,6 +1,6 @@
 # TSE_Academic_Projects
 
-Some of my TSE master projects.
+Some of my TSE master projects
 
 This repository gathers a selection of projects completed during my master's studies at the Toulouse School of Economics.
 
